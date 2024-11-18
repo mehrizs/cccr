@@ -14,18 +14,18 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/mehrizs/cccr
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: HIST4840 Podcast Site Template 
+title: Connection, Community, and the Credit River
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A customized CollectionBuilder template for HIST4840 podcasts
+tagline:
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "If this were a real podcast episode, this would be where I would write an exciting introduction. The audio presented here is really just a brief sample of public domain material, and not really a podcast... but it works for the purposes of this template and you can replace it with your own audio."
+description: Mehri Sheikh interviews Raiden Levesque, the senior coordinator of the Credit Valley Trail and Indigenous Engagement at Credit Valley Conservation, about the Credit River, Indigenous placemaking, and the history of the Credit Valley Conservation's efforts for reconciliation and conservation.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: "Kris Joseph"
 
