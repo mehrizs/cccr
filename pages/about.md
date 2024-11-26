@@ -10,7 +10,7 @@ credits: false
 
 {% include feature/jumbotron.html objectid="creditriver1.jpeg" %}
 
-{% include feature/nav-menu.html sections="Description;Transcript;Links;Acknowledgments;References" %}
+{% include feature/nav-menu.html sections="Description;Acknowledgments" %}
 
 ## Description
 
