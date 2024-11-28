@@ -7,6 +7,7 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+{% include feature/audio.html objectid=conservationcommunityandthecreditriver %}
 
 {% include feature/jumbotron.html objectid="creditriver3" %}
 
