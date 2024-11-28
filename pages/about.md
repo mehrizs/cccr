@@ -22,7 +22,7 @@ Mehri Sheikh interviews Raiden Levesque, the senior coordinator of the Credit Va
 The creators would like to acknowledge assistance and support from:
 
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
-
+- Raiden Levesque, The Credit Valley Conservation and the Credit Valley Trail Initiative (cvc.ca)
 
 
 
